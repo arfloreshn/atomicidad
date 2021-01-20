@@ -1,4 +1,4 @@
-# Atomicidad, Dabases de Datos Distribuidad
+# Atomicidad, Dabases de Datos Distribuidas
 
   Creado por: Allan Ramiro Flores Murillo.
   Nacionalidad: Hondureña.
