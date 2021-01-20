@@ -10,6 +10,11 @@
 - MySQL 5.7
 
 
+# Scripts de base de datos
+   
+   dbAgencia.sql crea la base de datos de la agencia
+   dbCentral.sql crea la base de datos de la oficina central.
+
 # Algoritmo Fork-Join
   En este patrón de diseño se generan dos ejecuciones concurrentes, 
   que empieza inmediatamente después de que el fork es llamado en código,  
