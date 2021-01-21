@@ -6,7 +6,7 @@
 
 # Requisitos:
 - Netbeans 12.2 
-- Jdk 1.11 
+- JDK   11 
 - MySQL 5.7
 
 # Scripts de base de datos
